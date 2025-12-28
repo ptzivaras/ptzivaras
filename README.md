@@ -1,5 +1,4 @@
-# Skills & Concepts
-Worked/Freelance/Personal Projects with the following..
+# Worked/Freelance/Personal Projects with the following..
 
 **Backend**
 - ASP.NET Core (C#), Spring Boot (Java), Node.js(JS)
