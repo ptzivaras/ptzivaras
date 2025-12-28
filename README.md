@@ -1,7 +1,3 @@
-## Technical Skills
-
----
-
 **Backend**
 - ASP.NET Core (C#), Spring Boot (Java), Node.js
 - RESTful APIs,
