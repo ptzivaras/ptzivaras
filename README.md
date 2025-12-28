@@ -2,10 +2,10 @@
 
 **Backend**
 - ASP.NET Core (C#), Spring Boot (Java), Node.js(JS)
-- RESTful APIs, JWT, OAuth2, Identity, API Versioning, Rate limiting
+- RESTful APIs, JWT, OAuth2, Identity, API Versioning, Rate limiting, Pagination
 - OOP, Design Principles(SOLID etc.), Design Patterns(DI, Singleton, Strategy etc.), MVC / MVVM
 - 3-layer architecture
-- Threads, Concurrency, Cache, Pagination
+- Threads, Concurrency, Cache
 - Exception handling & error strategy (global handlers, problem details, consistent API errors)
 - Validation (server-side validation, DTO validation, request/response contracts)
 - async processing, Logging & monitoring
