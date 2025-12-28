@@ -1,8 +1,9 @@
 ## Hi there 👋
-Full-Stack Engineer with 3+ years of experience delivering web, mobile, and cross-platform solutions.  
+---
 Strong focus on backend development, RESTful APIs, and scalable systems using .NET, Spring Boot, and SQL.
 ---
 ## Technical Skills
+
 **Backend**
 - ASP.NET Core (C#), Spring Boot (Java), Node.js
 - RESTful APIs,
