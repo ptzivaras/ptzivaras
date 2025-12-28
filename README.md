@@ -1,8 +1,6 @@
-## Hi there 👋
----
-Strong focus on backend development, RESTful APIs, and scalable systems using .NET, Spring Boot, and SQL.
----
 ## Technical Skills
+
+---
 
 **Backend**
 - ASP.NET Core (C#), Spring Boot (Java), Node.js
