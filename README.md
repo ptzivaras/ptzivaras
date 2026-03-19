@@ -26,8 +26,7 @@
 
 **DevOps & Tools**
 - Git, GitHub
-- Docker, Docker Compose
-- CI/CD
+- DevOps basics (CI/CD, Docker, Linux)
 - Postman, Swagger
 - Unit & Integration Testing
 - env files
