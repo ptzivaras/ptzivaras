@@ -1,7 +1,7 @@
 # Worked/Freelance/Personal Projects with the following..
 
 **Backend**
-- ASP.NET Core (C#), Spring Boot (Java), Node.js(JS)
+- ASP.NET Core (C#), Spring Boot (Java), Node.js(JS), python(worked with ETL & BigData)
 - RESTful APIs, JWT, OAuth2, Identity, API Versioning, Rate limiting, Pagination
 - OOP, Design Principles(SOLID etc.), Design Patterns(DI, Singleton, Strategy etc.), MVC / MVVM
 - 3-layer architecture
